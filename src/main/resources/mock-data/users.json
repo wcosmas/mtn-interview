@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "john.doe@mtn.com",
+    "phone": "+256701123456",
+    "website": "johndoe.com"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "jane.smith@mtn.com",
+    "phone": "+256702987654",
+    "website": "janesmith.dev"
+  },
+  {
+    "id": 3,
+    "name": "Robert Kigozi",
+    "username": "rkigozi",
+    "email": "robert.kigozi@mtn.com",
+    "phone": "+256703456789",
+    "website": "rkigozi.tech"
+  },
+  {
+    "id": 4,
+    "name": "Sarah Nakato",
+    "username": "snakato",
+    "email": "sarah.nakato@mtn.com",
+    "phone": "+256704321098",
+    "website": "snakato.portfolio"
+  },
+  {
+    "id": 5,
+    "name": "James Okello",
+    "username": "jokello",
+    "email": "james.okello@mtn.com",
+    "phone": "+256705654321",
+    "website": "jokello.blog"
+  },
+  {
+    "id": 6,
+    "name": "Grace Namutebi",
+    "username": "gnamutebi",
+    "email": "grace.namutebi@mtn.com",
+    "phone": "+256706789012",
+    "website": "gnamutebi.design"
+  },
+  {
+    "id": 7,
+    "name": "David Ssekandi",
+    "username": "dssekandi",
+    "email": "david.ssekandi@mtn.com",
+    "phone": "+256707147258",
+    "website": "dssekandi.consulting"
+  },
+  {
+    "id": 8,
+    "name": "Mary Atukunda",
+    "username": "matukunda",
+    "email": "mary.atukunda@mtn.com",
+    "phone": "+256708369258",
+    "website": "matukunda.art"
+  },
+  {
+    "id": 9,
+    "name": "Peter Wanyama",
+    "username": "pwanyama",
+    "email": "peter.wanyama@mtn.com",
+    "phone": "+256709852741",
+    "website": "pwanyama.solutions"
+  },
+  {
+    "id": 10,
+    "name": "Elizabeth Namuli",
+    "username": "enamuli",
+    "email": "elizabeth.namuli@mtn.com",
+    "phone": "+256710741963",
+    "website": "enamuli.innovation"
+  }
+]

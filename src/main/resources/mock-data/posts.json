@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "title": "MTN Uganda Digital Transformation Strategy",
+    "body": "Exploring how MTN Uganda is leveraging digital technologies to transform customer experience and drive innovation across all business units. This includes mobile money, data services, and enterprise solutions."
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "title": "Spring Boot Microservices Architecture",
+    "body": "Implementing microservices architecture using Spring Boot for scalable enterprise applications. Key considerations include service discovery, configuration management, and inter-service communication."
+  },
+  {
+    "id": 3,
+    "userId": 2,
+    "title": "Mobile Money API Integration Best Practices",
+    "body": "Best practices for integrating with MTN Mobile Money APIs including authentication, transaction processing, callback handling, and error management for robust financial applications."
+  },
+  {
+    "id": 4,
+    "userId": 2,
+    "title": "Database Performance Optimization in Telecom",
+    "body": "Strategies for optimizing database performance in high-volume telecom environments. Covers indexing, partitioning, caching, and query optimization techniques for customer and billing systems."
+  },
+  {
+    "id": 5,
+    "userId": 3,
+    "title": "RESTful API Design for Telecom Services",
+    "body": "Designing RESTful APIs for telecom services including subscriber management, billing, and network operations. Focus on security, versioning, and documentation standards."
+  },
+  {
+    "id": 6,
+    "userId": 3,
+    "title": "Java Concurrency in High-Traffic Applications",
+    "body": "Understanding and implementing Java concurrency patterns for high-traffic telecom applications. Covers thread safety, concurrent collections, and performance optimization."
+  },
+  {
+    "id": 7,
+    "userId": 4,
+    "title": "MTN Uganda Customer Experience Platform",
+    "body": "Building a unified customer experience platform that integrates multiple touchpoints including USSD, SMS, mobile app, and web portal for seamless customer interactions."
+  },
+  {
+    "id": 8,
+    "userId": 4,
+    "title": "DevOps Pipeline for Telecom Applications",
+    "body": "Implementing CI/CD pipelines for telecom applications with focus on automated testing, deployment strategies, and monitoring in production environments."
+  },
+  {
+    "id": 9,
+    "userId": 5,
+    "title": "Network Operations Center Automation",
+    "body": "Automating network operations center processes using APIs and intelligent monitoring systems to reduce manual interventions and improve service quality."
+  },
+  {
+    "id": 10,
+    "userId": 5,
+    "title": "Enterprise Integration Patterns in Telecom",
+    "body": "Implementing enterprise integration patterns for connecting various telecom systems including billing, CRM, network management, and third-party services."
+  },
+  {
+    "id": 11,
+    "userId": 6,
+    "title": "Mobile Application Backend Services",
+    "body": "Designing robust backend services for MTN mobile applications including user authentication, profile management, service provisioning, and real-time notifications."
+  },
+  {
+    "id": 12,
+    "userId": 6,
+    "title": "Data Analytics Platform for Telecom Insights",
+    "body": "Building a data analytics platform to derive insights from customer usage patterns, network performance, and business metrics for data-driven decision making."
+  },
+  {
+    "id": 13,
+    "userId": 7,
+    "title": "Security Implementation in Telecom APIs",
+    "body": "Implementing comprehensive security measures for telecom APIs including OAuth 2.0, JWT tokens, API rate limiting, and protection against common vulnerabilities."
+  },
+  {
+    "id": 14,
+    "userId": 7,
+    "title": "Monitoring and Observability in Production",
+    "body": "Establishing monitoring and observability practices for production telecom systems including logging, metrics collection, distributed tracing, and alerting mechanisms."
+  },
+  {
+    "id": 15,
+    "userId": 8,
+    "title": "Cloud-Native Telecom Applications",
+    "body": "Migrating telecom applications to cloud-native architecture using containers, Kubernetes, and cloud services for improved scalability and resilience."
+  },
+  {
+    "id": 16,
+    "userId": 8,
+    "title": "Event-Driven Architecture for Real-Time Processing",
+    "body": "Implementing event-driven architecture for real-time processing of telecom events including call records, data usage, and customer interactions using message queues and stream processing."
+  },
+  {
+    "id": 17,
+    "userId": 9,
+    "title": "MTN Developer Portal and API Management",
+    "body": "Building and managing MTN's developer portal for third-party integrations including API documentation, sandbox environments, and developer onboarding processes."
+  },
+  {
+    "id": 18,
+    "userId": 9,
+    "title": "Load Testing Strategies for Telecom Systems",
+    "body": "Comprehensive load testing strategies for telecom systems to ensure performance under peak loads including subscriber registration, billing, and mobile money transactions."
+  },
+  {
+    "id": 19,
+    "userId": 10,
+    "title": "Legacy System Modernization Approach",
+    "body": "Strategies for modernizing legacy telecom systems while maintaining business continuity. Includes API wrappers, strangler fig pattern, and gradual migration approaches."
+  },
+  {
+    "id": 20,
+    "userId": 10,
+    "title": "Agile Development in Telecom Environment",
+    "body": "Implementing agile development methodologies in telecom environment with focus on continuous delivery, customer feedback loops, and rapid iteration cycles."
+  }
+]

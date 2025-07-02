@@ -1,0 +1,34 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+### GET List all posts
+GET http://localhost:8080/api/posts
+
+### GET Get specific post
+GET http://localhost:8080/api/posts/1
+
+### POST request for saving an engineer
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "title": "I love MTN",
+  "body": "MTN is the best telecom in Uganda"
+}
+
+### GET Delete Post
+DELETE http://localhost:8080/api/posts/1
+
+### GET Get post by User
+GET http://localhost:8080/api/posts/user/1
+
+### GET List all users
+GET http://localhost:8080/api/users
+
+### GET Get specific user
+GET http://localhost:8080/api/users/1
+
+### GET Load users from mock data file
+GET http://localhost:8080/api/users/load
