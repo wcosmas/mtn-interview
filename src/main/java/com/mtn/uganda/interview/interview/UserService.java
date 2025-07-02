@@ -54,6 +54,10 @@ public class UserService {
         for (User mockUser : mockUsers) {
             if (!userRepository.existsByUsername(mockUser.getUsername()) &&
                     !userRepository.existsByEmail(mockUser.getEmail())) {
+                // Clear ID and timestamps to avoid optimistic locking conflicts
+                mockUser.setId(null);
+                mockUser.setCreatedAt(null);
+                mockUser.setUpdatedAt(null);
                 userRepository.save(mockUser);
                 loadedCount++;
             } else {

@@ -27,18 +27,18 @@ public class UserController {
         return ResponseEntity.ok(users);
     }
 
-    @GetMapping("/{id}")
-    public ResponseEntity<UserDto> getUserById(@PathVariable Long id) {
-        UserDto user = userService.getUserById(id);
-        return ResponseEntity.ok(user);
-    }
-
-    @PostMapping("/load")
+    @RequestMapping(value = "/load", method = {RequestMethod.GET, RequestMethod.POST})
     public ResponseEntity<Map<String, String>> loadUsersFromMockData() {
         String result = userService.loadUsersFromMockData();
         Map<String, String> response = new HashMap<>();
         response.put("message", result);
         return ResponseEntity.ok(response);
+    }
+
+    @GetMapping("/{id}")
+    public ResponseEntity<UserDto> getUserById(@PathVariable Long id) {
+        UserDto user = userService.getUserById(id);
+        return ResponseEntity.ok(user);
     }
 
     @PostMapping
